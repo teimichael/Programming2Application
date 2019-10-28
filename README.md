@@ -30,13 +30,14 @@ Select one type and one or several concepts in the selected below with a demo an
    - Spring data JPA, Hibernate, Mybatis
    - junit
    - Shiro, Spring security
+   - maven
 
 - Frontend
    - Node.js
    - Vue.js / Angular.js / React.js
-   - Webpack
    - Any UI Framework
-   - 
+   - Webpack
+   - MVVM, MVC
 
 - Deployment
    - Docker
