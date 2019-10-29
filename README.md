@@ -53,7 +53,7 @@ Select one deliverable demo including at least frontend, backend and database be
 
 ## Python
 ### Basis
-Make an explanation of Python grammar in 30 minutes.
+Make an explanation of Python grammar with a demo in 30 minutes.
 
 ### Library
 Select one type and one or several concepts in the selected below with a demo and make an explanation in 30 minutes.
@@ -65,6 +65,8 @@ Select one type and one or several concepts in the selected below with a demo an
 
 
 ### Machine Learning Theory
+Select one concept below with a demo and make an explanation in 30 minutes.
+
 - Classification / Clustering
 - Linear regression, Logistic regression
 - Support Vector Machine
