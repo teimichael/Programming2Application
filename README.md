@@ -1,5 +1,12 @@
 # Interview Point
 ## Java to Full Stack
+### Keyword
+**Language** Java, JavaScript, HTML, CSS
+
+**Framework** Spring, Spring boot, Spring MVC, Hibernate/Mybatis, JQuery, Vue.js/Angular.js
+
+**Software** MySQL, MongoDB, Apache, Tomcat, Nginx, Node.js, Docker, Kubenetes
+
 ### Basis
 Select one or several concepts below and make an explanation with a demo in 30 minutes.
 
@@ -52,6 +59,15 @@ Select one deliverable demo including at least frontend, backend and database be
 - Hybrid mobile app
 
 ## Python
+### Keyword
+**Language** Python
+
+**Data Processing Library** numpy, pandas, matplotlib, Python Imaging Library, opencv-python
+
+**Machine Learning Library** scikit-learn, XGBoost, PyTorch, Tensorflow, Keras
+
+**Software** Anaconda
+
 ### Basis
 Make an explanation of Python grammar with a demo in 30 minutes.
 
